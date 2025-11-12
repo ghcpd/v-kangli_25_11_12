@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Output files
+detections.json
+statistics.json
+detection.log
+*.log
+config_backup.json
+default_config.json
+
+# Output folders
+output_images/
+results/
+logs/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# OS files
+Thumbs.db
+.DS_Store
+*.tmp
+
+# Temporary files
+*.bak
+*.tmp
+~*
+
+# Cache files
+*.cache
+.cache/
