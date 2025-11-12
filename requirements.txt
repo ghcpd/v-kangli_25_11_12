@@ -1,0 +1,10 @@
+# Project requirements
+ultralytics>=8.0.114
+torch>=2.0.0
+torchvision>=0.15.2
+opencv-python
+pillow
+pytesseract
+numpy
+tqdm
+pytest
