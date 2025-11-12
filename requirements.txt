@@ -1,0 +1,32 @@
+# Computer Vision Detection System Requirements
+# Python 3.8+
+
+# Core Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Object Detection (YOLOv8)
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Text Detection and OCR
+easyocr>=1.7.0
+pillow>=9.0.0
+
+# Data processing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Utilities
+tqdm>=4.62.0
+pyyaml>=6.0
+
+# Testing and Quality
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Development
+flake8>=4.0.0
+black>=22.0.0
+mypy>=0.950
