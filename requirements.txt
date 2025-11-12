@@ -1,0 +1,9 @@
+ultralytics>=8.0.148
+opencv-python-headless
+numpy
+Pillow
+easyocr
+tqdm
+pytest
+pytesseract
+scikit-image
