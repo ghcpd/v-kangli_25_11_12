@@ -1,0 +1,11 @@
+ultralytics>=8.0.0
+opencv-python-headless>=4.5.5.64
+numpy>=1.23.0
+Pillow>=9.3.0
+easyocr>=1.6.2
+tqdm>=4.64.0
+pytest>=7.0.0
+python-dotenv>=1.0
+imutils>=0.5.4
+# If your environment doesn't include torch, ultralytics will install an appropriate version. If you need a specific torch wheel for GPU,
+# install it manually per your platform and CUDA version before installing requirements.
